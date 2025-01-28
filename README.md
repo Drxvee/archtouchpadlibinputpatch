@@ -1,5 +1,5 @@
 # archtouchpadlibinputpatch
-Patch for libinput palm exclusion zones on touchpad for arch linux
+Patch to remove libinput palm exclusion zones on touchpad for arch linux
 
 Usage:
 ```
